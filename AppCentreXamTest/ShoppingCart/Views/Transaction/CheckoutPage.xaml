@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage
+    x:Class="ShoppingCart.Views.Transaction.CheckoutPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:controls="clr-namespace:ShoppingCart.Controls"
+    xmlns:local="clr-namespace:ShoppingCart.Views.Transaction"
+    xmlns:viewModel="clr-namespace:ShoppingCart.ViewModels.Transaction"
+	xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core" 
+	xmlns:resource="clr-namespace:ShoppingCart"
+    ios:Page.UseSafeArea="true"
+    Title="{x:Static resource:StringResource.Checkout}"
+    xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms" xmlns:badge="clr-namespace:Syncfusion.XForms.BadgeView;assembly=Syncfusion.SfBadgeView.XForms"
+    BackgroundColor="{DynamicResource Gray-100}"
+    NavigationPage.HasNavigationBar="False">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+
+    <ContentPage.Content>
+        <StackLayout>
+
+             <StackLayout Spacing="0">
+
+                <!--  Title View  -->
+                <controls:TitleView Title="{x:Static resource:StringResource.Checkout}" BackgroundColor="{DynamicResource Gray-White}">
+                    <controls:TitleView.LeadingView>
+                        <buttons:SfButton
+                            x:Name="backButton"
+                            Command="{Binding BackButtonCommand}"
+                            CommandParameter="{x:Reference backButton}"
+                            CornerRadius="4"
+                            Style="{StaticResource IconButtonStyle}"
+                            Text="{StaticResource Back}" />
+                    </controls:TitleView.LeadingView>
+                    <controls:TitleView.TrailingView>
+                        <StackLayout Orientation="Horizontal">
+                            
+                            <badge:SfBadgeView
+                            Padding="0"
+                            HeightRequest="42"
+                            HorizontalOptions="End"
+                            VerticalOptions="Center"
+                            WidthRequest="40">
+                                <badge:SfBadgeView.Content>
+                                    <buttons:SfButton
+                                    Clicked="SfButton_Clicked"
+                                    CornerRadius="4"
+                                    HorizontalOptions="End"
+                                    Style="{StaticResource IconButtonStyle}"
+                                    Text="{StaticResource Mic}" />
+                                </badge:SfBadgeView.Content>
+                                <badge:SfBadgeView.BadgeSettings>
+                                    <badge:BadgeSetting
+                                    BackgroundColor="{DynamicResource PrimaryColor}"
+                                    BadgeAnimation="None"
+                                    BadgeType="None"
+                                    FontSize="10"
+                                    Stroke="{DynamicResource Gray-White}"
+                                    StrokeWidth="1"
+                                    Offset="-10,10" />
+                                </badge:SfBadgeView.BadgeSettings>
+                            </badge:SfBadgeView>
+                        </StackLayout>
+
+                    </controls:TitleView.TrailingView>
+                </controls:TitleView>
+                 
+                <ContentPresenter />
+            </StackLayout>
+
+        <ScrollView>
+            <Grid
+                Padding="{OnIdiom Default='0',
+                                  Desktop='16,16,16,0'}"
+                ColumnSpacing="0"
+                RowSpacing="16">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <!--  ListView for Delivery  -->
+                <local:DeliveryView Margin="{OnIdiom Phone='0,16,0,0', Tablet='0,24,0,0', Desktop=0}" />
+
+                <!--  ListView for Payment  -->
+                <local:PaymentView Grid.Row="1" Margin="{OnIdiom Default=0, Tablet='0,24,0,0'}" />
+
+                <!--  Price Details  -->
+                    <local:PriceDetailView Grid.Row="2" ActionText="{x:Static resource:StringResource.PayNow}" />
+
+            </Grid>
+        </ScrollView>
+            </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

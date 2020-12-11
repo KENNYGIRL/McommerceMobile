@@ -1,0 +1,1273 @@
+﻿{
+  "bannerimage": "Banner.jpg",
+  "categories": [
+    {
+      "id": "1",
+      "icon": "menWatch.png",
+      "name": "Men's Watches",
+      "yorubaname": "aago àwọn okúnrin",
+      "narration": "6).3gpp"
+    },
+    {
+      "id": "2",
+      "icon": "MenLeatherShoes.jpg",
+      "name": "Men's Shoes",
+      "yorubaname": "Bàtà àwọn okúnrin",
+      "narration": "7).3gpp"
+    },
+    {
+      "id": "3",
+      "icon": "GreenFlatShoes.jpg",
+      "name": "Women's Shoes",
+      "yorubaname": "bàtà àwọn obìnrin",
+      "narration": "8).3gpp"
+    },
+    {
+      "id": "4",
+      "icon": "ChanelMedallionTote.jpg",
+      "name": "Women's Bags",
+      "yorubaname": "Baagì àwọn obìnrin",
+      "narration": "9).3gpp"
+    }
+  ],
+
+  "products": [
+    {
+      "id": "1",
+      "previewimages": [
+        {
+          "previewimage": "floral.png"
+        },
+        {
+          "previewimage": "floral.png"
+        }
+      ],
+      "previewimage": "floral.png",
+      "name": "Floral Bag + Hat",
+      "yorubaname": "Baagì ododo + ijanilaya",
+      "summary": "Bag for the summer",
+      "description": "Bag for the summer",
+      "yorubadescription": "Baagì àwọn obìnrin",
+      "actualprice": "123.50",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "overallrating": "5",
+      "reviews": [
+        {
+          "profileimage": "ProfileImage1.png",
+          "customername": "Jhon Deo",
+          "comment": "Greatest purchase I have ever made in my life.",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "DivingWatch1.png"
+            },
+            {
+              "reviewimage": "DivingWatch2.png"
+            },
+            {
+              "reviewimage": "DivingWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        },
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "DivingWatch3.png"
+            },
+            {
+              "reviewimage": "DivingWatch4.png"
+            },
+            {
+              "reviewimage": "DivingWatch1.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "subcategoryid": "4",
+      "narration": "9a).3gpp"
+    },
+    {
+      "id": "2",
+      "previewimages": [
+        {
+          "previewimage": "leatherBag.png"
+        },
+        {
+          "previewimage": "leatherBag.png"
+        }
+      ],
+      "previewimage": "leatherBag.png",
+      "name": "Leather Bag",
+      "yorubaname": "Baagì ododo + ijanilaya",
+      "summary": "One of the slimmest upscale dress watches on the market, this one boasts the refinement and finishing that make this brand famous.",
+      "description": "One of the slimmest upscale dress watches on the market, this one boasts the refinement and finishing that make this brand famous.",
+      "yorubadescription": "Ọkan ninu awọn baagì imura slimmest ti o pọ julọ lori ọja, eyi ni igberaga isọdọtun ati ipari ti o jẹ ki ami yii ni olokiki",
+      "actualprice": "285",
+      "discountpercent": "30",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage1.png",
+          "customername": "Jhon Deo",
+          "comment": "Greatest purchase I have ever made in my life.",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "DressWatch.png"
+            },
+            {
+              "reviewimage": "DressWatch1.png"
+            },
+            {
+              "reviewimage": "DressWatch2.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "4",
+      "subcategoryid": "4",
+      "narration": "9b).3gpp"
+    },
+    {
+      "id": "3",
+      "previewimages": [
+        {
+          "previewimage": "heeledShoe.png"
+        },
+        {
+          "previewimage": "heeledShoe.png"
+        }
+      ],
+      "previewimage": "heeledShoe.png",
+      "name": "Beige Heeled Shoe",
+      "yorubaname": "Awọ oke giga",
+      "summary": "Simple high top shoes",
+      "description": "Simple high top shoes",
+      "yorubadescription": "Àwọn bàtà oke giga ti o rọrun",
+      "actualprice": "220",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+
+      ],
+      "overallrating": "5",
+      "subcategoryid": "3",
+      "narration": "8a).3gpp"
+    },
+    {
+      "id": "4",
+      "previewimages": [
+        {
+          "previewimage": "dressShoe.png"
+        },
+        {
+          "previewimage": "dressShoe.png"
+        }
+      ],
+      "previewimage": "dressShoe.png",
+      "name": "Brown shoes",
+      "summary": "Brown shoes for the office",
+      "description": "Brown shoes for the office",
+      "yorubadescription": "àwọn bàtà alawọ ile fun ọfiisi",
+      "discountpercent": "30",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+
+      ],
+      "overallrating": "4",
+      "subcategoryid": "2",
+      "narration": "7a).3gpp"
+    },
+    {
+      "id": "5",
+      "previewimages": [
+        {
+          "previewimage": "satchel.png"
+        },
+        {
+          "previewimage": "satchel.png"
+        }
+      ],
+      "previewimage": "satchel.png",
+      "name": "Satchel Bag",
+      "yorubaname": "Baagì aṣọ atẹrin",
+      "summary": "",
+      "description": "Simple trendy bag",
+      "yorubadescription": "Baagì aṣa ti o rọrun",
+      "actualprice": "220",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "4",
+      "narration": "9c).3gpp"
+    },
+    {
+      "id": "6",
+      "previewimages": [
+        {
+          "previewimage": "CasualBreathableLowShoe.jpg"
+        },
+        {
+          "previewimage": "CasualBreathableLowShoe.jpg"
+        }
+      ],
+      "previewimage": "CasualBreathableLowShoe.jpg",
+      "name": "Casual Breathable Low Shoe",
+      "yorubaname": "Àjọsọpọ ti nmí kekere bàtà",
+      "summary": "Comfort and style mixed in one",
+      "description": "Comfort and style mixed in one",
+      "yorubadescription": "Itunu ati ara ti a dapọ ni ọkan",
+      "actualprice": "50",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "2",
+      "narration": "7b).3gpp"
+    },
+    {
+      "id": "7",
+      "previewimages": [
+        {
+          "previewimage": "MenLeatherShoes.jpg"
+        },
+        {
+          "previewimage": "MenLeatherShoes.jpg"
+        }
+      ],
+      "previewimage": "MenLeatherShoes.jpg",
+      "name": "Brown Leather Brogues",
+      "yorubaname": "Bàtà awọ ilẹ Brogues",
+      "summary": "Brown brogues for the confident man",
+      "description": "Brown brogues for the confident man",
+      "yorubadescription": "Bàtà awọ ilẹ fun eniyan igboya",
+      "actualprice": "110",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "2",
+      "narration": "7c).3gpp"
+    },
+    {
+      "id": "8",
+      "previewimages": [
+        {
+          "previewimage": "DenimShoes.jpg"
+        },
+        {
+          "previewimage": "DenimShoes.jpg"
+        }
+      ],
+      "previewimage": "DenimShoes.jpg",
+      "name": "Denim Kids Canvas",
+      "yorubaname": "Denim àwọn ọmọ wẹwẹ kanfasi",
+      "summary": "Shoe for the young and free",
+      "description": "Shoe for the young and free",
+      "yorubadescription": "Bàtà fun omode ati ọfẹ",
+      "actualprice": "56",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "2",
+      "narration": "7d).3gpp"
+    },
+    {
+      "id": "9",
+      "previewimages": [
+        {
+          "previewimage": "MensShoes.jpg"
+        },
+        {
+          "previewimage": "MensShoes.jpg"
+        }
+      ],
+      "previewimage": "MensShoes.jpg",
+      "name": "Leather High Top",
+      "yorubaname": "awọ oke giga",
+      "summary": "High top shoes for office and casual",
+      "description": "High top shoes for office and casual",
+      "yorubadescription": "Bàtà fun omode ati ọfẹ",
+      "actualprice": "112",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "2",
+      "narration": "7e).3gpp"
+    },
+    {
+      "id": "10",
+      "previewimages": [
+        {
+          "previewimage": "MensOfficeShoe.jpg"
+        },
+        {
+          "previewimage": "MensOfficeShoe.jpg"
+        }
+      ],
+      "previewimage": "MensOfficeShoe.jpg",
+      "name": "Gloss Finished Office Shoe",
+      "summary": "Premium office shoes",
+      "description": "Premium office shoes",
+      "yorubadescription": "\"edan pari ọfiisi bàtà",
+      "actualprice": "120",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "2",
+      "narration": "7f).3gpp"
+    },
+    {
+      "id": "11",
+      "previewimages": [
+        {
+          "previewimage": "vans.jpg"
+        },
+        {
+          "previewimage": "vans.jpg"
+        }
+      ],
+      "previewimage": "vans.jpg",
+      "name": "Cheetah Zebra Fuchsia Vans",
+      "yorubaname": "Cheetah zebra fuschia merenti",
+      "summary": "Casual shoes for young women",
+      "description": "Casual shoes for young women",
+      "yorubadescription": "Àwọn bàtà oke giga ti o rọrun",
+      "actualprice": "80",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "3",
+      "narration": "8b).3gpp"
+    },
+    {
+      "id": "12",
+      "previewimages": [
+        {
+          "previewimage": "GirlsHighBoots.jpg"
+        },
+        {
+          "previewimage": "GirlsHighBoots.jpg"
+        }
+      ],
+      "previewimage": "GirlsHighBoots.jpg",
+      "name": "Leather High Boots",
+      "yorubaname": "Àwọn bata orunkun giga",
+      "summary": "Perfect shoes for young women",
+      "description": "Perfect shoes for young women",
+      "yorubadescription": "Àwọn bàtà pipe fun àwọn ọmọdebinrin",
+      "actualprice": "70",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "3",
+      "narration": "8c).3gpp"
+    },
+    {
+      "id": "13",
+      "previewimages": [
+        {
+          "previewimage": "GladiatorSandals.jpg"
+        },
+        {
+          "previewimage": "GladiatorSandals.jpg"
+        }
+      ],
+      "previewimage": "GladiatorSandals.jpg",
+      "name": "Gold Gladiator Sandals",
+      "yorubaname": "Àwọn bata alawọ goolu Gladiator",
+      "summary": "Trendy light sandals",
+      "description": "Trendy light sandals",
+      "yorubadescription": " Àwọn bàtà alawọ ina ti aṣa",
+      "actualprice": "95",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "3",
+      "narration": "8d).3gpp"
+    },
+    {
+      "id": "14",
+      "previewimages": [
+        {
+          "previewimage": "RedCanvas.jpg"
+        },
+        {
+          "previewimage": "RedCanvas.jpg"
+        },
+        {
+          "previewimage": "RedCanvas.jpg"
+        }
+      ],
+      "previewimage": "RedCanvas.jpg",
+      "name": "Red Canvas",
+      "yorubaname": "kanfasi pupa",
+      "summary": "Trendy canvas good with jeans",
+      "description": "Trendy canvas good with jeans",
+      "yorubadescription": "Aṣa kanfasi ti o dara pẹlu sokoto",
+      "actualprice": "106",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "3",
+      "narration": "8e).3gpp"
+    },
+    {
+      "id": "15",
+      "previewimages": [
+        {
+          "previewimage": "PinkCanvas.jpg"
+        },
+        {
+          "previewimage": "PinkCanvas.jpg"
+        }
+      ],
+      "previewimage": "PinkCanvas.jpg",
+      "name": "Pink Canvas",
+      "yorubaname": "Kanfasi awọ pupa",
+      "summary": "Simple canvas for young girls",
+      "description": "Simple canvas for young girls",
+      "yorubadescription": "Kanfasi ti o rọrun fun awọn ọmọbirin kekere",
+      "actualprice": "80",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "3",
+      "narration": "8f).3gpp"
+    },
+    {
+      "id": "17",
+      "previewimages": [
+        {
+          "previewimage": "GreenOrisDiver.jpg"
+        },
+        {
+          "previewimage": "GreenOrisDiver.jpg"
+        }
+      ],
+      "previewimage": "GreenOrisDiver.jpg",
+      "name": "Green Oris Watch",
+      "yorubaname": "alawọ ewe aago Oris ",
+      "summary": "A green and dark watch good for men",
+      "description": "A green and dark watch good for men",
+      "yorubadescription": "aago alawọ ewe ati okunkun dara fun àwọn okúnrin",
+      "actualprice": "98",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "1",
+      "narration": "6a).3gpp"
+    },
+    {
+      "id": "18",
+      "previewimages": [
+        {
+          "previewimage": "gigandet.jpg"
+        },
+        {
+          "previewimage": "gigandet.jpg"
+        }
+      ],
+      "previewimage": "gigandet.jpg",
+      "name": "Gigandet Leather Watch",
+      "yorubaname": "alawọ awo aago Gigandet",
+      "summary": "A brown leather watch good for men",
+      "description": "A brown leather watch good for men",
+      "yorubadescription": "Agogo alawọ alawọ kan ti o dara fun awọn okúnrin",
+      "actualprice": "220",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "1",
+      "narration": "6b).3gpp"
+    },
+    {
+      "id": "19",
+      "previewimages": [
+        {
+          "previewimage": "IWCIngenieurChronograph.jpg"
+        },
+        {
+          "previewimage": "IWCIngenieurChronograph.jpg"
+        }
+      ],
+      "previewimage": "IWCIngenieurChronograph.jpg",
+      "name": "IWC Ingenieur Chronograph",
+      "yorubaname": "IWC ingenieur Chronograph",
+      "summary": "A black leather watch good for men",
+      "description": "A black leather watch good for men",
+      "yorubadescription": "aago alawọ alawọ dara fun àwọn okúnrin",
+      "actualprice": "130",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "1",
+      "narration": "6c).3gpp"
+    },
+    {
+      "id": "20",
+      "previewimages": [
+        {
+          "previewimage": "Zenith.jpg"
+        },
+        {
+          "previewimage": "Zenith.jpg"
+        }
+      ],
+      "previewimage": "Zenith.jpg",
+      "name": "Zenith El Primero",
+      "yorubaname": "Zenith El Primero",
+      "summary": "A silver watch good for men",
+      "description": "A silver watch good for men",
+      "yorubadescription": "iṣọ fadaka aago kan to dara fun àwọn okúnrin",
+      "actualprice": "220",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "1",
+      "narration": "6d).3gpp"
+    },
+    {
+      "id": "21",
+      "previewimages": [
+        {
+          "previewimage": "BellRoss.jpg"
+        },
+        {
+          "previewimage": "BellRoss.jpg"
+        }
+      ],
+      "previewimage": "BellRoss.jpg",
+      "name": "Black Bell and Ross",
+      "yorubaname": "agogo dudu ati rosa",
+      "summary": "Black smart watch for men",
+      "description": "Black smart watch for men",
+      "yorubadescription": "dudu smati aago fun àwọn okúnrin",
+      "actualprice": "70",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "1",
+      "narration": "6e).3gpp"
+    },
+    {
+      "id": "22",
+      "previewimages": [
+        {
+          "previewimage": "Oris.jpg"
+        },
+        {
+          "previewimage": "Oris.jpg"
+        }
+      ],
+      "previewimage": "Oris.jpg",
+      "name": "Oris Big Crown ProPilot",
+      "yorubaname": "orísun propilot agba brown",
+      "summary": "A silver aluminium watch",
+      "description": "A silver aluminium watch",
+      "yorubadescription": "dudu smati aago fun àwọn okúnrin",
+      "actualprice": "80",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "1",
+      "narration": "6f).3gpp"
+    },
+    {
+      "id": "23",
+      "previewimages": [
+        {
+          "previewimage": "PeachLeatherBag.jpg"
+        },
+        {
+          "previewimage": "PeachLeatherBag.jpg"
+        }
+      ],
+      "previewimage": "PeachLeatherBag.jpg",
+      "name": "Peach Leather Handbag",
+      "yorubaname": "Apamọwọ alawọ Peach",
+      "summary": "Simple trendy bag",
+      "description": "Simple trendy bag",
+      "actualprice": "220",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "4",
+      "narration": "9d).3gpp"
+    },
+    {
+      "id": "24",
+      "previewimages": [
+        {
+          "previewimage": "PatchworkPurseBag.jpg"
+        },
+        {
+          "previewimage": "PatchworkPurseBag.jpg"
+        }
+      ],
+      "previewimage": "PatchworkPurseBag.jpg",
+      "name": "Patchwork Purse and Bag",
+      "yorubaname": "apamọwọ patchwork ati baagì",
+      "summary": "Multi coloured bag for women",
+      "description": "Multi coloured bag for women.",
+      "yorubadescription": "Baagì awọ ọpọlọpọ fun àwọn obìnrin",
+      "actualprice": "220",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "4",
+      "narration": "9e).3gpp"
+    },
+    {
+      "id": "25",
+      "previewimages": [
+        {
+          "previewimage": "burberryivoryblack.jpeg"
+        },
+        {
+          "previewimage": "burberryivoryblack.jpeg"
+        }
+      ],
+      "previewimage": "burberryivoryblack.jpeg",
+      "name": "Burberry Ivory Black Handbag",
+      "yorubaname": "Apamọwọ ehin-erin dudu",
+      "summary": "Fancy bag for ladies",
+      "description": "Fancy bag for ladies",
+      "yorubadescription": "Baagì  olutayo fun àwọn obìnrin",
+      "actualprice": "130",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "4",
+      "narration": "9f).3gpp"
+    },
+    {
+      "id": "26",
+      "previewimages": [
+        {
+          "previewimage": "pradalargebucketbag.jpeg"
+        },
+        {
+          "previewimage": "pradalargebucketbag.jpeg"
+        },
+        {
+          "previewimage": "pradalargebucketbag.jpeg"
+        }
+      ],
+      "previewimage": "pradalargebucketbag.jpeg",
+      "name": "Prada Large Bucket Bag",
+      "yorubaname": "Prada baagì garawa nla",
+      "summary": "Bucket style bag for women",
+      "description": "Bucket style bag for women",
+      "yorubadescription": "Baagì  olutayo fun àwọn obìnrin",
+      "actualprice": "220",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "4",
+      "narration": "9g).3gpp"
+    },
+    {
+      "id": "27",
+      "previewimages": [
+        {
+          "previewimage": "ChanelMedallionTote.jpg"
+        },
+        {
+          "previewimage": "ChanelMedallionTote.jpg"
+        },
+        {
+          "previewimage": "ChanelMedallionTote.jpg"
+        }
+      ],
+      "previewimage": "ChanelMedallionTote.jpg",
+      "name": "ChanelMedallionTote.jpg",
+      "yorubaname": "Chanel Medallion Tote Baagì",
+      "summary": "Trendy black bag for women",
+      "description": "Trendy black bag for women",
+      "yorubadescription": "Baagì  dudu ti aṣa fun àwọn obìnrin",
+      "actualprice": "220",
+      "discountpercent": "15",
+      "quantities": [
+        "1",
+        "2",
+        "3"
+      ],
+      "totalquantity": 1,
+      "reviews": [
+        {
+          "profileimage": "ProfileImage2.png",
+          "customername": "Alice Russell",
+          "comment": "Absolutely love them! Can't stop wearing!",
+          "rating": "5",
+          "reviewimages": [
+            {
+              "reviewimage": "WristWatch1.png"
+            },
+            {
+              "reviewimage": "WristWatch2.png"
+            },
+            {
+              "reviewimage": "WristWatch3.png"
+            }
+          ],
+          "revieweddate": "2019-12-29"
+        }
+      ],
+      "overallrating": "5",
+      "subcategoryid": "4",
+      "narration": "9h).3gpp"
+    }
+  ]
+}
